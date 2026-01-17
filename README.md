@@ -1,1 +1,1 @@
-# ESP32-Cam-ObjectDetection
+# ESP32 Cam ObjectDetection
