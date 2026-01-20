@@ -85,7 +85,7 @@ The ESP32-CAM does not include an integrated USB-to-serial programmer so an exte
 19) Set the target to **Espressif ESP-EYE (ESP32 240MHz)**
 20) Click **Build** and download the generated library
 21) In Arduino IDE, go to Sketch → Include Library → Add .ZIP Library
-22) Open [](https://github.com/Mali03/ESP32-CAM-ObjectDetection/blob/main/ObjectDetection.ino) and replace
+22) Open [ObjectDetection.ino](https://github.com/Mali03/ESP32-CAM-ObjectDetection/blob/main/ObjectDetection.ino) and replace
 ```cpp
 #include <Maden_suyu_detection_inferencing.h>
 ```
