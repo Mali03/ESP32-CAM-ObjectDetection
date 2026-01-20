@@ -98,7 +98,7 @@ http://ESP32_IP_ADDRESS/
 You will see the live camera stream with detected objects highlighted.
 
 ## License
-This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Mali03/ESP32-Cam-ObjectDetection/blob/main/LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](https://github.com/Mali03/ESP32-CAM-ObjectDetection/blob/main/LICENSE) file for details.
 
 ## Need Help
 If you need any help contact me on [LinkedIn](https://www.linkedin.com/in/mali03/).
